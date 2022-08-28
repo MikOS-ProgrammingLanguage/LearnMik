@@ -38,7 +38,7 @@ An example of such variable behavior descriptor would be
 
 where global defines the behavior of the variable. 
 
-> You can also find a full compendium of all variable behavior descriptors [here](sources.md#full-compendium-of-variable-behavior-descriptors)
+> Note: You can also find a full compendium of all variable behavior descriptors [here](sources.md#full-compendium-of-variable-behavior-descriptors)
 
 ### **3.2.2 Type descriptors**
 
@@ -48,7 +48,7 @@ Type descriptors specify additional information about a variable. To fully under
 
 The type here is ``int``. Not ``long int``. ``long`` is just ***describing*** the type int to be an integer, which is long.
 
-> Once again you can find a full compendium of all type descriptors [here](sources.md#full-compendium-of-type-descriptors)
+> Note: Once again you can find a full compendium of all type descriptors [here](sources.md#full-compendium-of-type-descriptors)
 
 ## **3.3 Bringing it all together**
 

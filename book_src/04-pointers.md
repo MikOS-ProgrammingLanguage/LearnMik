@@ -32,6 +32,6 @@ So in this example ``int pointer`` has the address 0xfffb and at that address is
 
 ## **4.4 How to use pointers in Mik**
 
-> If you don't have experience with pointers. **Please don't read any further** as this will perhaps initially lead to a lot of confusion!
+> Note: If you don't have experience with pointers. **Please don't read any further** as this will perhaps initially lead to a lot of confusion!
 
 # **4.5 Advanced Topics**
