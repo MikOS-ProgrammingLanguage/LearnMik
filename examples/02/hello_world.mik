@@ -1,0 +1,2 @@
+// logs hello world to stdio (console)
+puts("Hello, World!")

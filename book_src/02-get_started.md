@@ -39,7 +39,7 @@ Now that we covered all that boring stuff, let's start programming. And what wou
 
 First create a file ending in _.mik_
 
-Then write the following code:
+Then write the following [code](../examples/02/hello_world.mik):
 
     puts("Hello, World!")
 
