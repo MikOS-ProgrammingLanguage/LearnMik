@@ -24,7 +24,7 @@ A pointer just points to such an address. So a pointer to an int basically means
 | Address | Data |
 | --: | :-- |
 | 0xfffa | 84572 |
-| ``int pointer: `` 0xfffb | ``->`` 10 |
+| ``int pointer:`` 0xfffb | ``->`` 10 |
 
 So in this example ``int pointer`` has the address 0xfffb and at that address is the value 10
 
